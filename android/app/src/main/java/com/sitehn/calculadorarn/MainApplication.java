@@ -1,4 +1,5 @@
-package com.calculadora;
+// package com.calculadora;
+package com.sitehn.calculadorarn;
 
 import org.devio.rn.splashscreen.SplashScreenReactPackage;
 

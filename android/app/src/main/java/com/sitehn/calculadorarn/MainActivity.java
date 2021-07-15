@@ -1,4 +1,5 @@
-package com.calculadora;
+// package com.calculadora;
+package com.sitehn.calculadorarn;
 import android.os.Bundle; // here
 
 import com.facebook.react.ReactActivity;
